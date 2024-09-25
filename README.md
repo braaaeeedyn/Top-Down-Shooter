@@ -8,15 +8,19 @@ How to Play
 Movement:
 
 Use the Arrow Keys or WASD to move the player character around the screen.
+
 Shooting:
 
 Press the Spacebar to shoot projectiles towards the right side of the screen.
+
 Objective:
 
 Score points by hitting enemies. The game ends when you reach a score of 10,000 points.
+
 Missed Enemies:
 
 If enemies pass off the left side of the screen, points will be deducted for each missed enemy. You can miss a maximum of 5 enemies before facing a penalty.
+
 Restarting the Game:
 
 After winning, press R to restart the game.
